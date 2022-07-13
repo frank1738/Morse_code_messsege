@@ -1,41 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# MORSE CODE DECODER
 
-> Description the project.
+> This project is about decrypting any given character, word, or sentence from 'Morse code' to human readable English language. To solve this problem we have used Ruby as our programming language.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- RUBY
+- linters for ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-
-
+You will need to have Ruby installed on your computer. Clone the repository. Run the code, `ruby decode.rb`
 
 ## Authors
 
@@ -45,11 +22,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Chia Carlyle**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@carlylechia](https://github.com/carlylechia)
+- Twitter: [@chiacarlyle](https://twitter.com/chiacarlyle)
+- LinkedIn: [chia-carlyle](https://linkedin.com/in/chia-carlyle)
 
 ## 🤝 Contributing
 
@@ -63,9 +40,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to @Microverse_inc
 
 ## 📝 License
 
