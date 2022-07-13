@@ -4,7 +4,6 @@
 
 > This project is about decrypting any given character, word, or sentence from 'Morse code' to human readable English language. To solve this problem we have used Ruby as our programming language.
 
-
 ## Built With
 
 - RUBY
@@ -16,11 +15,11 @@ You will need to have Ruby installed on your computer. Clone the repository. Run
 
 ## Authors
 
-👤 **Author1**
+👤 **Frankline Osoro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [frank1738](https://github.com/frank1738)
+- Twitter: [@frankhiggins08](https://twitter.com/frankhiggins08)
+- LinkedIn: [Frankline Osoro](http://www.linkedin.com/in/frankline-osoro-b526ba18b)
 
 👤 **Chia Carlyle**
 
