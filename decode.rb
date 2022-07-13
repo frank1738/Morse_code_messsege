@@ -49,4 +49,19 @@ def decode_word(word)
       end
     decoded_word
   end
+
+def decode(messege)
+    words=messege.split('  ')
+    messege=[]
+    words.each do |phrase|
+        decoded_phrase=decode_word(phrase)
+        messege.push(decoded_phrase)
+        
+    end
+    p messege.join(' ')
+    
+
+  end  
+
+  decode(".-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
   
